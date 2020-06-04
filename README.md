@@ -24,5 +24,7 @@ Contains the generation settings and controlles
 A module that makes TextToSpeech simple by wrapping gtts and pyttsx into one reusable, simple to understand function
 
 # Example project
-To stay below the Github upload limit of 100mb I had to host the Project on a diff. service,
+To stay below the Github upload limit of 100mb I had to host the Project on a different service,
 you can get it from my website: https://stevetec.de/downloads/UnityProject.zip
+It's a simple 3D flappy bird clone. The game is not up to the highest code/design standards
+[it's only supposed to be an example of the unity side of the customizer]
